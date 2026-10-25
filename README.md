@@ -1,16 +1,18 @@
-## Hi there 👋
+# Oi, eu sou o Gustavo 👋
 
-<!--
-**gxtavo7/gxtavo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou começando no mundo da programação e usando o GitHub pra aprender na prática.
 
-Here are some ideas to get you started:
+## O que estou aprendendo
+- Git e GitHub
+- Noções básicas de programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Do que eu gosto
+- Jogos
+- Tecnologia
+- Música
+
+## Objetivo
+Criar meus primeiros projetos e ir melhorando um pouco a cada semana.
+
+## Contato
+- Discord: gustazixx_.
